@@ -2,7 +2,7 @@
 Hate speech detection refers to the process of automatically identifying and categorizing text or speech that contains offensive, derogatory, or harmful content targeting individuals or groups based on attributes such as race, ethnicity, religion, gender, sexual orientation, or other protected characteristics. The goal of hate speech detection is to develop algorithms and models that can effectively recognize and flag instances of hate speech, enabling proactive measures to mitigate its impact and promote a safer online environment.
 
 The process of hate speech detection typically involves the following steps:
-
+hello
 Data collection: Gathering a diverse and representative dataset of text or speech samples that encompass a wide range of hate speech instances. This dataset is used to train and evaluate the detection models.
 
 Preprocessing: Cleaning and normalizing the text or speech data by removing irrelevant elements, such as punctuation, stop words, and special characters. This step may also involve tokenization, stemming, or lemmatization to convert the text into a suitable format for analysis.
